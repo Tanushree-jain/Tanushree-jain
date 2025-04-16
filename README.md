@@ -13,4 +13,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree-jain&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tanushree-jain&label=Profile%20views&color=0e75b6&style=flat)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tanushree-jain&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Tanushree-jain&theme=dark&no-bg=true&margin-w=10&margin-h=10&column=3&title=Commit,Repositories,PullRequest" alt="GitHub Trophies" />
+  </a>
+</p>
+
