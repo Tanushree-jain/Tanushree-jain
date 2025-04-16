@@ -10,7 +10,7 @@
 🧠 Currently diving into **NestJS** and **DevOps** to sharpen my backend architecture and deployment workflows.
 
 ![Tanushree's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanushree-jain&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree-jainl&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanushree-jain&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Tanushree-jain&label=Profile%20views&color=0e75b6&style=flat)
 
