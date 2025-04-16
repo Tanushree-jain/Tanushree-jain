@@ -1,5 +1,5 @@
 ## Hi, I'm Tanushree 👋
-<p align="right">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Tanushree-jain&label=Profile%20Hits&color=00ffcc&style=plastic" alt="Profile Views" />
 </p>
 
@@ -8,6 +8,8 @@
 
 💡 Passionate about creating **efficient**, **maintainable**, and **high-performing** software solutions.  
 🧠 Currently diving into **NestJS** and **DevOps** to sharpen my backend architecture and deployment workflows.
+
+
 
 ### 📈Top Languages
 <!--
@@ -57,6 +59,12 @@
   <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 </div>
 
+---
+
+### 📫 Let's Connect
+
+- 🌐 Portfolio: [tanushree-jain.github.io/portfolio](https://tanushree-jain.github.io/portfolio/)
+- 💼 LinkedIn: [linkedin.com/in/tanushree-gangwal](https://www.linkedin.com/in/tanushree-gangwal)
 
 
 
